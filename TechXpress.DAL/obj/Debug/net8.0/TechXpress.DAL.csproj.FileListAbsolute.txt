@@ -1,0 +1,16 @@
+D:\TechXpress Project\TechXpress.DAL\bin\Debug\net8.0\TechXpress.DAL.deps.json
+D:\TechXpress Project\TechXpress.DAL\bin\Debug\net8.0\TechXpress.DAL.dll
+D:\TechXpress Project\TechXpress.DAL\bin\Debug\net8.0\TechXpress.DAL.pdb
+D:\TechXpress Project\TechXpress.DAL\bin\Debug\net8.0\TechXpress.Models.dll
+D:\TechXpress Project\TechXpress.DAL\bin\Debug\net8.0\TechXpress.Models.pdb
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\TechXpress.DAL.csproj.AssemblyReference.cache
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\TechXpress.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\TechXpress.DAL.AssemblyInfoInputs.cache
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\TechXpress.DAL.AssemblyInfo.cs
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\TechXpress.DAL.csproj.CoreCompileInputs.cache
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\TechXpress.DAL.sourcelink.json
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\TechXpre.5ED4AFD7.Up2Date
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\TechXpress.DAL.dll
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\refint\TechXpress.DAL.dll
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\TechXpress.DAL.pdb
+D:\TechXpress Project\TechXpress.DAL\obj\Debug\net8.0\ref\TechXpress.DAL.dll

@@ -1,0 +1,13 @@
+D:\TechXpress Project\TechXpress.Models\bin\Debug\net8.0\TechXpress.Models.deps.json
+D:\TechXpress Project\TechXpress.Models\bin\Debug\net8.0\TechXpress.Models.dll
+D:\TechXpress Project\TechXpress.Models\bin\Debug\net8.0\TechXpress.Models.pdb
+D:\TechXpress Project\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.csproj.AssemblyReference.cache
+D:\TechXpress Project\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechXpress Project\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.AssemblyInfoInputs.cache
+D:\TechXpress Project\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.AssemblyInfo.cs
+D:\TechXpress Project\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.csproj.CoreCompileInputs.cache
+D:\TechXpress Project\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.sourcelink.json
+D:\TechXpress Project\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.dll
+D:\TechXpress Project\TechXpress.Models\obj\Debug\net8.0\refint\TechXpress.Models.dll
+D:\TechXpress Project\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.pdb
+D:\TechXpress Project\TechXpress.Models\obj\Debug\net8.0\ref\TechXpress.Models.dll
