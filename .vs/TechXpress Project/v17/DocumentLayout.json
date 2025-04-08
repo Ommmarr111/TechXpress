@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\TechXpress Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0B2231F-A045-476A-9BC4-4A8F241FE00D}|TechXpress.Models\\TechXpress.Models.csproj|d:\\techxpress project\\techxpress.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0B2231F-A045-476A-9BC4-4A8F241FE00D}|TechXpress.Models\\TechXpress.Models.csproj|solutionrelative:techxpress.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{37523AFE-5B7D-4EA8-8EC3-82C368D5921E}|TechXpress.DAL\\TechXpress.DAL.csproj|d:\\techxpress project\\techxpress.dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37523AFE-5B7D-4EA8-8EC3-82C368D5921E}|TechXpress.DAL\\TechXpress.DAL.csproj|solutionrelative:techxpress.dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B2231F-A045-476A-9BC4-4A8F241FE00D}|TechXpress.Models\\TechXpress.Models.csproj|d:\\techxpress project\\techxpress.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B2231F-A045-476A-9BC4-4A8F241FE00D}|TechXpress.Models\\TechXpress.Models.csproj|solutionrelative:techxpress.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0B2231F-A045-476A-9BC4-4A8F241FE00D}|TechXpress.Models\\TechXpress.Models.csproj|d:\\techxpress project\\techxpress.models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,15 +62,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "context.cs",
               "DocumentMoniker": "D:\\TechXpress Project\\TechXpress.DAL\\context.cs",
               "RelativeDocumentMoniker": "TechXpress.DAL\\context.cs",
               "ToolTip": "D:\\TechXpress Project\\TechXpress.DAL\\context.cs",
               "RelativeToolTip": "TechXpress.DAL\\context.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T18:18:02.209Z"
+              "WhenOpened": "2025-04-08T18:18:02.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -98,16 +99,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\TechXpress Project\\TechXpress.Models\\User.cs",
               "RelativeDocumentMoniker": "TechXpress.Models\\User.cs",
               "ToolTip": "D:\\TechXpress Project\\TechXpress.Models\\User.cs",
               "RelativeToolTip": "TechXpress.Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T18:12:06.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T18:12:06.675Z"
             },
             {
               "$type": "Document",
