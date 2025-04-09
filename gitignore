@@ -50,3 +50,4 @@ obj/
 *.suo
 *.cache
 *.db
+.vs/
