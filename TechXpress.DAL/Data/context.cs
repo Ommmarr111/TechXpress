@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TechXpress.Models;
 
-namespace TechXpress.DAL
+namespace TechXpress.DAL.Data
 {
     public class context : DbContext
     {
