@@ -24,3 +24,16 @@ C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXp
 C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.Models\obj\Debug\net8.0\refint\TechXpress.Models.dll
 C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.pdb
 C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.Models\obj\Debug\net8.0\ref\TechXpress.Models.dll
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\bin\Debug\net8.0\TechXpress.Models.deps.json
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\bin\Debug\net8.0\TechXpress.Models.dll
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\bin\Debug\net8.0\TechXpress.Models.pdb
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.csproj.AssemblyReference.cache
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.AssemblyInfoInputs.cache
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.AssemblyInfo.cs
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.csproj.CoreCompileInputs.cache
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.sourcelink.json
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.dll
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\refint\TechXpress.Models.dll
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.pdb
+C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\ref\TechXpress.Models.dll

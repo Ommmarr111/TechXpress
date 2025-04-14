@@ -4797,23 +4797,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ommma\\.nuget\\packages\\": {},
+    "C:\\Users\\maryem\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TechXpress Project\\TechXpress.Web\\TechXpress.Web.csproj",
+      "projectUniqueName": "C:\\Users\\maryem\\Desktop\\TechXpress\\TechXpress.Web\\TechXpress.Web.csproj",
       "projectName": "TechXpress.Web",
-      "projectPath": "D:\\TechXpress Project\\TechXpress.Web\\TechXpress.Web.csproj",
-      "packagesPath": "C:\\Users\\ommma\\.nuget\\packages\\",
-      "outputPath": "D:\\TechXpress Project\\TechXpress.Web\\obj\\",
+      "projectPath": "C:\\Users\\maryem\\Desktop\\TechXpress\\TechXpress.Web\\TechXpress.Web.csproj",
+      "packagesPath": "C:\\Users\\maryem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maryem\\Desktop\\TechXpress\\TechXpress.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ommma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maryem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4828,14 +4828,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\TechXpress Project\\TechXpress.BLL\\TechXpress.BLL.csproj": {
-              "projectPath": "D:\\TechXpress Project\\TechXpress.BLL\\TechXpress.BLL.csproj"
+            "C:\\Users\\maryem\\Desktop\\TechXpress\\TechXpress.BLL\\TechXpress.BLL.csproj": {
+              "projectPath": "C:\\Users\\maryem\\Desktop\\TechXpress\\TechXpress.BLL\\TechXpress.BLL.csproj"
             },
-            "D:\\TechXpress Project\\TechXpress.DAL\\TechXpress.DAL.csproj": {
-              "projectPath": "D:\\TechXpress Project\\TechXpress.DAL\\TechXpress.DAL.csproj"
+            "C:\\Users\\maryem\\Desktop\\TechXpress\\TechXpress.DAL\\TechXpress.DAL.csproj": {
+              "projectPath": "C:\\Users\\maryem\\Desktop\\TechXpress\\TechXpress.DAL\\TechXpress.DAL.csproj"
             },
-            "D:\\TechXpress Project\\TechXpress.Models\\TechXpress.Models.csproj": {
-              "projectPath": "D:\\TechXpress Project\\TechXpress.Models\\TechXpress.Models.csproj"
+            "C:\\Users\\maryem\\Desktop\\TechXpress\\TechXpress.Models\\TechXpress.Models.csproj": {
+              "projectPath": "C:\\Users\\maryem\\Desktop\\TechXpress\\TechXpress.Models\\TechXpress.Models.csproj"
             }
           }
         }
