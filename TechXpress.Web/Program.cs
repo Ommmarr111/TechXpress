@@ -9,7 +9,9 @@ namespace TechXpress.Web
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            builder.Configuration
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+    .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", optional: true);
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<context>(options =>
