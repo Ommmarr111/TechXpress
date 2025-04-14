@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System;
 using TechXpress.DAL.Data;
 
@@ -9,9 +10,9 @@ namespace TechXpress.Web
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            builder.Configuration
-    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
-    .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", optional: true);
+            builder.Services.AddDbContext<context>(options =>
+      options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<context>(options =>
