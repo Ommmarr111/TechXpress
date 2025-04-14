@@ -405,3 +405,7 @@ obj/
 
 # Database Context
 TechXpress.DAL/Data/
+# Ignore local debug & SourceLink files
+**/obj/
+**/bin/
+*.sourcelink.json
