@@ -2809,23 +2809,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Saeed\\.nuget\\packages\\": {},
+    "C:\\Users\\ommma\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.Models\\TechXpress.Models.csproj",
+      "projectUniqueName": "D:\\TechXpress Project\\TechXpress.Models\\TechXpress.Models.csproj",
       "projectName": "TechXpress.Models",
-      "projectPath": "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.Models\\TechXpress.Models.csproj",
-      "packagesPath": "C:\\Users\\Saeed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.Models\\obj\\",
+      "projectPath": "D:\\TechXpress Project\\TechXpress.Models\\TechXpress.Models.csproj",
+      "packagesPath": "C:\\Users\\ommma\\.nuget\\packages\\",
+      "outputPath": "D:\\TechXpress Project\\TechXpress.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Saeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ommma\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2850,9 +2850,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -2883,7 +2883,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

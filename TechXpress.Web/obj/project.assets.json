@@ -4797,23 +4797,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Saeed\\.nuget\\packages\\": {},
+    "C:\\Users\\ommma\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.Web\\TechXpress.Web.csproj",
+      "projectUniqueName": "D:\\TechXpress Project\\TechXpress.Web\\TechXpress.Web.csproj",
       "projectName": "TechXpress.Web",
-      "projectPath": "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.Web\\TechXpress.Web.csproj",
-      "packagesPath": "C:\\Users\\Saeed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.Web\\obj\\",
+      "projectPath": "D:\\TechXpress Project\\TechXpress.Web\\TechXpress.Web.csproj",
+      "packagesPath": "C:\\Users\\ommma\\.nuget\\packages\\",
+      "outputPath": "D:\\TechXpress Project\\TechXpress.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Saeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ommma\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4828,14 +4828,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.BLL\\TechXpress.BLL.csproj": {
-              "projectPath": "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.BLL\\TechXpress.BLL.csproj"
+            "D:\\TechXpress Project\\TechXpress.BLL\\TechXpress.BLL.csproj": {
+              "projectPath": "D:\\TechXpress Project\\TechXpress.BLL\\TechXpress.BLL.csproj"
             },
-            "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.DAL\\TechXpress.DAL.csproj": {
-              "projectPath": "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.DAL\\TechXpress.DAL.csproj"
+            "D:\\TechXpress Project\\TechXpress.DAL\\TechXpress.DAL.csproj": {
+              "projectPath": "D:\\TechXpress Project\\TechXpress.DAL\\TechXpress.DAL.csproj"
             },
-            "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.Models\\TechXpress.Models.csproj": {
-              "projectPath": "C:\\Users\\Saeed\\Documents\\GitHub\\TechXpress\\TechXpress.Models\\TechXpress.Models.csproj"
+            "D:\\TechXpress Project\\TechXpress.Models\\TechXpress.Models.csproj": {
+              "projectPath": "D:\\TechXpress Project\\TechXpress.Models\\TechXpress.Models.csproj"
             }
           }
         }
@@ -4848,9 +4848,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -4890,7 +4890,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
