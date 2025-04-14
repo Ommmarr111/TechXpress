@@ -403,3 +403,5 @@ appsettings.Development.json
 bin/
 obj/
 
+# Database Context
+TechXpress.DAL/Data/
