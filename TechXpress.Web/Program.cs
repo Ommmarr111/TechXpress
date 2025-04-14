@@ -14,7 +14,6 @@ namespace TechXpress.Web
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<context>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
