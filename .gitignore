@@ -362,7 +362,7 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-
+appsettings.Development.json
 # Visual Studio History (VSHistory) files
 .vshistory/
 
@@ -395,7 +395,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-
+appsettings.Development.json
 # JetBrains Rider
 *.sln.iml
 appsettings.json
@@ -405,3 +405,7 @@ obj/
 
 # Database Context
 TechXpress.DAL/Data/
+# Ignore local debug & SourceLink files
+**/obj/
+**/bin/
+*.sourcelink.json
