@@ -19,7 +19,7 @@ namespace TechXpress.DAL.Data
         public virtual DbSet<Payment> Payments { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("data source=.\\SQLEXPRESS;initial catalog=TechXpress;integrated security=true;trustservercertificate=true;");
+            optionsBuilder.UseSqlServer("data source=DESKTOP-QTJH61B\\SQLEXPRESS;initial catalog=TechXpress;integrated security=true;trustservercertificate=true;");
             base.OnConfiguring(optionsBuilder);
 
         }

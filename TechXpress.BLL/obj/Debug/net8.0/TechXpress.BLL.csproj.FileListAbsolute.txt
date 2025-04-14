@@ -16,3 +16,21 @@ D:\TechXpress Project\TechXpress.BLL\obj\Debug\net8.0\TechXpress.BLL.dll
 D:\TechXpress Project\TechXpress.BLL\obj\Debug\net8.0\refint\TechXpress.BLL.dll
 D:\TechXpress Project\TechXpress.BLL\obj\Debug\net8.0\TechXpress.BLL.pdb
 D:\TechXpress Project\TechXpress.BLL\obj\Debug\net8.0\ref\TechXpress.BLL.dll
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\bin\Debug\net8.0\TechXpress.BLL.deps.json
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\bin\Debug\net8.0\TechXpress.BLL.dll
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\bin\Debug\net8.0\TechXpress.BLL.pdb
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\bin\Debug\net8.0\TechXpress.DAL.dll
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\bin\Debug\net8.0\TechXpress.Models.dll
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\bin\Debug\net8.0\TechXpress.DAL.pdb
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\bin\Debug\net8.0\TechXpress.Models.pdb
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\TechXpress.BLL.csproj.AssemblyReference.cache
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\TechXpress.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\TechXpress.BLL.AssemblyInfoInputs.cache
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\TechXpress.BLL.AssemblyInfo.cs
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\TechXpress.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\TechXpress.BLL.sourcelink.json
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\TechXpre.2052C3A0.Up2Date
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\TechXpress.BLL.dll
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\refint\TechXpress.BLL.dll
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\TechXpress.BLL.pdb
+C:\Users\Saeed\Source\Repos\TechXpress\TechXpress.BLL\obj\Debug\net8.0\ref\TechXpress.BLL.dll
