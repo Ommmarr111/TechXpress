@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TechXpress.Models;
 
 namespace TechXpress.Web.Controllers
 {
-    public class ProductsController : Controller
+    public class OrderController : Controller
     {
         public IActionResult Index()
         {

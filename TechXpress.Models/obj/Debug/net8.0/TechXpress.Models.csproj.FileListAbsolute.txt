@@ -37,3 +37,16 @@ C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress
 C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\refint\TechXpress.Models.dll
 C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.pdb
 C:\Users\maryem\Desktop\TechXpress\TechXpress.Models\obj\Debug\net8.0\ref\TechXpress.Models.dll
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\bin\Debug\net8.0\TechXpress.Models.deps.json
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\bin\Debug\net8.0\TechXpress.Models.dll
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\bin\Debug\net8.0\TechXpress.Models.pdb
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.csproj.AssemblyReference.cache
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.AssemblyInfoInputs.cache
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.AssemblyInfo.cs
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.csproj.CoreCompileInputs.cache
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.sourcelink.json
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.dll
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\obj\Debug\net8.0\refint\TechXpress.Models.dll
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\obj\Debug\net8.0\TechXpress.Models.pdb
+C:\Users\Saeed\Documents\GitHub\TechXpress\TechXpress.Models\obj\Debug\net8.0\ref\TechXpress.Models.dll
