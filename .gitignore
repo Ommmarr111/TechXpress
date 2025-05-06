@@ -402,9 +402,8 @@ appsettings.Development.json
 bin/
 obj/
 
-# Database Context
 TechXpress.DAL/Data/
-# Ignore local debug & SourceLink files
-**/obj/
-**/bin/
-*.sourcelink.json
+TechXpress.BLL/obj/
+TechXpress.DAL/obj/
+TechXpress.Models/obj/
+TechXpress.Web/obj/
