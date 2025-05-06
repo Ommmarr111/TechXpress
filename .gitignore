@@ -407,3 +407,5 @@ TechXpress.BLL/obj/
 TechXpress.DAL/obj/
 TechXpress.Models/obj/
 TechXpress.Web/obj/
+**/obj/
+
