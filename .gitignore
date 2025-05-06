@@ -406,4 +406,8 @@ TechXpress.DAL/Data/
 TechXpress.BLL/obj/
 TechXpress.DAL/obj/
 TechXpress.Models/obj/
+<<<<<<< HEAD
 TechXpress.Web/obj/
+=======
+TechXpress.Web/obj/
+>>>>>>> saeed
