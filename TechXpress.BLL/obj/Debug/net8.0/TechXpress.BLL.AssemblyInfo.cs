@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechXpress.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e114966230c238f076d376c704f3e6d86623f1ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d78f47fc7273a1fd6f1378ce0f671d239f735a50")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechXpress.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechXpress.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
